@@ -6,6 +6,7 @@ This repository contains examples of Terraform configurations for various cloud 
 
 - **awt_iot/main.tf**: Terraform configuration for AWS IoT.
 - **s3/main.tf**: Terraform configuration for an Amazon S3 bucket.
+- **EC"/main.tf**: Terraform configuration for an Amazon EC2 instance.
 
 ## How to Use
 
